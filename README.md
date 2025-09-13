@@ -32,3 +32,15 @@ This project was created to practice **GUI development in Python**, handling use
 3. Run the application:
    python calculator.py
 
+#👤 About Me
+
+I am a B.Tech Computer Science and Engineering (CSE – Artificial Intelligence & Machine Learning) student, passionate about Data Analytics, Machine Learning, and Python development.
+
+Currently exploring opportunities for internships to apply my skills in real-world projects and grow as a developer.
+
+💻 Skills: Python, Pandas, NumPy, Matplotlib, Seaborn, MySQL, Scikit-learn
+
+📌 GitHub: https://github.com/Smriti-395
+
+📌 LinkedIn: www.linkedin.com/in/smriti-mishra-17a140302
+
